@@ -1,1 +1,1 @@
-This Repository contains all the Assignments/Project related files of data analytics.
+This Repository Contains all the project related files and Video demonstrations for the Internship Data Analytics.
